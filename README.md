@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ola, Eu sou João Amaral! 👋
 
 - 🔭 Estou Procurando um Trabalho 🤪
 - 🌱 Estudando JavaScript
